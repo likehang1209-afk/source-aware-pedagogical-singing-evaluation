@@ -27,6 +27,9 @@ new foundation-model architecture.
 - Third-party foundation-model weights.
 - Cached MERT, MuQ, BEATs, or openSMILE feature matrices.
 - Cloud credentials, SSH helpers, checkpoints, and private absolute paths.
+- The authors obtained permission from the SVQTD provider to redistribute the
+pseudonymized segment-level labels and derived prediction records included in
+this repository.
 
 Obtain SVQTD through the original dataset publication and follow its terms.
 The pseudonymous ID algorithm is documented so authorized users can recreate
