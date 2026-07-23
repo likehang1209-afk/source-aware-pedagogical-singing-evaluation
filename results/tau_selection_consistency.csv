@@ -1,0 +1,43 @@
+outer_fold,aria,target,selected_taus,unique_tau_count,mode_tau,mode_count,mode_agreement,unanimous,mean_mode_agreement,unanimous_folds,mean_unique_tau_count
+0,Che gelida manina,back_placement,"[0.75, 1.0, 0.75, 0.0, 0.5]",4,0.75,2,0.4,False,0.5,0,3.3333333333333335
+0,Che gelida manina,breathiness,"[0.25, 0.0, 0.75, 0.25, 0.0]",3,0.25,2,0.4,False,0.4666666666666666,0,3.1666666666666665
+0,Che gelida manina,chest_resonance,"[0.0, 0.5, 0.75, 0.25, 0.75]",4,0.75,2,0.4,False,0.4666666666666666,0,2.8333333333333335
+0,Che gelida manina,front_placement,"[0.25, 1.0, 1.0, 0.75, 0.5]",4,1.0,2,0.4,False,0.5333333333333333,0,3.0
+0,Che gelida manina,head_resonance,"[0.0, 0.5, 0.75, 0.25, 1.0]",5,0.0,1,0.2,False,0.6,0,3.0
+0,Che gelida manina,open_throat,"[0.75, 0.25, 0.5, 0.25, 1.0]",4,0.25,2,0.4,False,0.5333333333333333,0,3.1666666666666665
+0,Che gelida manina,vibrato,"[0.5, 0.0, 1.0, 0.75, 0.0]",4,0.0,2,0.4,False,0.39999999999999997,0,3.8333333333333335
+1,E lucevan le stelle,back_placement,"[0.25, 0.25, 0.5, 0.75, 0.0]",4,0.25,2,0.4,False,0.5,0,3.3333333333333335
+1,E lucevan le stelle,breathiness,"[0.5, 0.5, 0.75, 0.5, 0.0]",3,0.5,3,0.6,False,0.4666666666666666,0,3.1666666666666665
+1,E lucevan le stelle,chest_resonance,"[0.25, 0.5, 0.25, 0.25, 0.5]",2,0.25,3,0.6,False,0.4666666666666666,0,2.8333333333333335
+1,E lucevan le stelle,front_placement,"[0.75, 0.5, 0.25, 0.75, 0.0]",4,0.75,2,0.4,False,0.5333333333333333,0,3.0
+1,E lucevan le stelle,head_resonance,"[0.25, 0.75, 0.25, 0.0, 0.25]",3,0.25,3,0.6,False,0.6,0,3.0
+1,E lucevan le stelle,open_throat,"[0.5, 0.5, 0.25, 0.0, 0.5]",3,0.5,3,0.6,False,0.5333333333333333,0,3.1666666666666665
+1,E lucevan le stelle,vibrato,"[0.0, 0.25, 0.5, 0.0, 0.75]",4,0.0,2,0.4,False,0.39999999999999997,0,3.8333333333333335
+2,Nessun dorma,back_placement,"[0.75, 0.5, 1.0, 0.5, 0.75]",3,0.75,2,0.4,False,0.5,0,3.3333333333333335
+2,Nessun dorma,breathiness,"[0.25, 0.0, 0.25, 0.25, 1.0]",3,0.25,3,0.6,False,0.4666666666666666,0,3.1666666666666665
+2,Nessun dorma,chest_resonance,"[1.0, 0.5, 0.25, 0.5, 0.25]",3,0.5,2,0.4,False,0.4666666666666666,0,2.8333333333333335
+2,Nessun dorma,front_placement,"[0.25, 0.25, 0.25, 0.75, 0.75]",2,0.25,3,0.6,False,0.5333333333333333,0,3.0
+2,Nessun dorma,head_resonance,"[0.75, 0.5, 0.5, 0.0, 0.25]",4,0.5,2,0.4,False,0.6,0,3.0
+2,Nessun dorma,open_throat,"[0.75, 0.5, 0.5, 0.25, 0.5]",3,0.5,3,0.6,False,0.5333333333333333,0,3.1666666666666665
+2,Nessun dorma,vibrato,"[1.0, 0.5, 0.25, 0.0, 0.75]",5,1.0,1,0.2,False,0.39999999999999997,0,3.8333333333333335
+3,Una furtiva lagrima,back_placement,"[0.5, 0.25, 0.75, 0.0, 0.5]",4,0.5,2,0.4,False,0.5,0,3.3333333333333335
+3,Una furtiva lagrima,breathiness,"[1.0, 0.5, 0.75, 1.0, 0.5]",3,1.0,2,0.4,False,0.4666666666666666,0,3.1666666666666665
+3,Una furtiva lagrima,chest_resonance,"[0.75, 0.0, 0.5, 0.75, 0.0]",3,0.75,2,0.4,False,0.4666666666666666,0,2.8333333333333335
+3,Una furtiva lagrima,front_placement,"[0.5, 0.5, 1.0, 1.0, 0.5]",2,0.5,3,0.6,False,0.5333333333333333,0,3.0
+3,Una furtiva lagrima,head_resonance,"[0.25, 0.25, 1.0, 0.25, 0.25]",2,0.25,4,0.8,False,0.6,0,3.0
+3,Una furtiva lagrima,open_throat,"[0.5, 0.0, 0.75, 1.0, 0.5]",4,0.5,2,0.4,False,0.5333333333333333,0,3.1666666666666665
+3,Una furtiva lagrima,vibrato,"[0.0, 0.5, 0.0, 0.25, 0.25]",3,0.0,2,0.4,False,0.39999999999999997,0,3.8333333333333335
+4,Vesti la giubba,back_placement,"[0.5, 0.5, 0.5, 0.5, 0.25]",2,0.5,4,0.8,False,0.5,0,3.3333333333333335
+4,Vesti la giubba,breathiness,"[0.0, 0.0, 0.25, 0.5, 0.5]",3,0.0,2,0.4,False,0.4666666666666666,0,3.1666666666666665
+4,Vesti la giubba,chest_resonance,"[0.0, 0.5, 0.0, 0.5, 0.0]",2,0.0,3,0.6,False,0.4666666666666666,0,2.8333333333333335
+4,Vesti la giubba,front_placement,"[0.5, 0.5, 0.75, 0.25, 0.5]",3,0.5,3,0.6,False,0.5333333333333333,0,3.0
+4,Vesti la giubba,head_resonance,"[0.0, 0.0, 0.25, 0.0, 0.0]",2,0.0,4,0.8,False,0.6,0,3.0
+4,Vesti la giubba,open_throat,"[0.5, 0.0, 0.75, 0.0, 0.5]",3,0.5,2,0.4,False,0.5333333333333333,0,3.1666666666666665
+4,Vesti la giubba,vibrato,"[0.25, 0.25, 0.75, 0.25, 0.0]",3,0.25,3,0.6,False,0.39999999999999997,0,3.8333333333333335
+5,La donna e mobile,back_placement,"[1.0, 0.25, 0.75, 0.25, 0.25]",3,0.25,3,0.6,False,0.5,0,3.3333333333333335
+5,La donna e mobile,breathiness,"[0.0, 0.5, 0.75, 0.25, 0.25]",4,0.25,2,0.4,False,0.4666666666666666,0,3.1666666666666665
+5,La donna e mobile,chest_resonance,"[0.0, 0.0, 0.25, 1.0, 0.25]",3,0.0,2,0.4,False,0.4666666666666666,0,2.8333333333333335
+5,La donna e mobile,front_placement,"[0.75, 1.0, 0.75, 0.75, 0.25]",3,0.75,3,0.6,False,0.5333333333333333,0,3.0
+5,La donna e mobile,head_resonance,"[0.25, 0.0, 0.0, 0.0, 0.0]",2,0.0,4,0.8,False,0.6,0,3.0
+5,La donna e mobile,open_throat,"[0.0, 0.0, 0.0, 0.25, 0.0]",2,0.0,4,0.8,False,0.5333333333333333,0,3.1666666666666665
+5,La donna e mobile,vibrato,"[0.5, 1.0, 0.25, 0.75, 0.25]",4,0.25,2,0.4,False,0.39999999999999997,0,3.8333333333333335

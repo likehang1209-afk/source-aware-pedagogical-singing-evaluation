@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the associated article and software release."
+title: "Source-Aware Evaluation of Pedagogical Singing Attributes"
+type: software
+version: 1.0.0
+date-released: 2026-07-23
+authors:
+  - family-names: Li
+    given-names: Kehang
+    affiliation: "College of Arts, Xiamen University, Xiamen, China"
+  - family-names: Zuo
+    given-names: Lihong
+    affiliation: "College of Arts, Xiamen University, Xiamen, China"
+  - family-names: Ji
+    given-names: Wen
+    affiliation: "College of Arts, Xiamen University, Xiamen, China"
+  - family-names: Zhang
+    given-names: Yuheng
+    affiliation: "College of Arts, Xiamen University, Xiamen, China"
+license: MIT
+keywords:
+  - singing voice
+  - vocal pedagogy
+  - source-aware evaluation
+  - foundation models
+  - reproducibility
+

@@ -1,0 +1,9 @@
+segment_uid,split,label_conflict,action,labels
+0822d3b3d406e5a0df639d4b,test,False,remove_exact_duplicate,"{""back_placement"": 1, ""breathiness"": 0, ""chest_resonance"": 2, ""front_placement"": 2, ""head_resonance"": 2, ""open_throat"": 0, ""vibrato"": 2}"
+0822d3b3d406e5a0df639d4b,val,False,retain,"{""back_placement"": 1, ""breathiness"": 0, ""chest_resonance"": 2, ""front_placement"": 2, ""head_resonance"": 2, ""open_throat"": 0, ""vibrato"": 2}"
+305e4f8a71c142b327c96114,val,True,exclude_conflicting_group,"{""back_placement"": 2, ""breathiness"": 0, ""chest_resonance"": 2, ""front_placement"": 2, ""head_resonance"": 3, ""open_throat"": 2, ""vibrato"": 1}"
+305e4f8a71c142b327c96114,test,True,exclude_conflicting_group,"{""back_placement"": 2, ""breathiness"": 0, ""chest_resonance"": 3, ""front_placement"": 2, ""head_resonance"": 2, ""open_throat"": 2, ""vibrato"": 1}"
+9b0ba989a27dbce1a16b2821,test,False,remove_exact_duplicate,"{""back_placement"": 1, ""breathiness"": 0, ""chest_resonance"": 2, ""front_placement"": 1, ""head_resonance"": 2, ""open_throat"": 2, ""vibrato"": 1}"
+9b0ba989a27dbce1a16b2821,val,False,retain,"{""back_placement"": 1, ""breathiness"": 0, ""chest_resonance"": 2, ""front_placement"": 1, ""head_resonance"": 2, ""open_throat"": 2, ""vibrato"": 1}"
+f9eb44845ee84747ce6934ce,test,False,remove_exact_duplicate,"{""back_placement"": 1, ""breathiness"": 0, ""chest_resonance"": 2, ""front_placement"": 2, ""head_resonance"": 2, ""open_throat"": 0, ""vibrato"": 1}"
+f9eb44845ee84747ce6934ce,val,False,retain,"{""back_placement"": 1, ""breathiness"": 0, ""chest_resonance"": 2, ""front_placement"": 2, ""head_resonance"": 2, ""open_throat"": 0, ""vibrato"": 1}"

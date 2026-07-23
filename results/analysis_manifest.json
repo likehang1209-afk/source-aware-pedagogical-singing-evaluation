@@ -1,0 +1,34 @@
+{
+  "analysis": "reporting strengthening without model retraining",
+  "metric_estimands": {
+    "segment_weighted": "each segment receives equal weight",
+    "source_equal_weighted": "each source contributes total weight one within each target",
+    "aria_equal_weighted": "each held aria contributes total weight one within each target",
+    "aria_fold_mean_global_class": "metric calculated per aria with all dataset classes, then averaged",
+    "aria_fold_mean_present_class": "UAR calculated over classes observed in each aria, then averaged"
+  },
+  "input_sha256": {
+    "predictions": "696b73b6462d56b0bf44bc43853aa4cf60092c668ea161ba3a98ca6f51e01e58",
+    "prior_selection": "3ec9795b2b915680e28921d96848b37e8e40a90b6b9f256796f9c473b9d907dd",
+    "permutation_group_audit": "f2f4002f58a6674a902b90be029d842ad2e98db7dcaeff83529a76f225f85c87"
+  },
+  "output_files": [
+    "aria_prior_shift.csv",
+    "aria_prior_shift_correlations.csv",
+    "aria_target_metrics.csv",
+    "layer_selection_frequency.csv",
+    "metric_estimands.csv",
+    "outer_test_source_size_summary.csv",
+    "permutation_effectiveness_detail.csv",
+    "permutation_effectiveness_summary.csv",
+    "rare_class_pr_auc.csv",
+    "tau_selection_consistency.csv",
+    "tau_selection_detail.csv",
+    "tau_selection_frequency.csv"
+  ],
+  "limitations": [
+    "Source-equal weighting is a sensitivity estimand, not a replacement for pooled metrics.",
+    "Permutation logs record movable and singleton rows but not realized row assignments; fixed-point fractions are therefore reported as uniform-permutation expectations, not observed values.",
+    "Prior-distance correlations are exploratory across 42 target-aria cells."
+  ]
+}

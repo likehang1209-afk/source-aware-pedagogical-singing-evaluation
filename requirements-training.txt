@@ -1,0 +1,5 @@
+-r requirements.txt
+torch>=2.2
+joblib>=1.3
+openSMILE>=2.5
+

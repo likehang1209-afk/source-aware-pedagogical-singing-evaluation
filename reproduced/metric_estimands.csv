@@ -1,0 +1,313 @@
+method,estimand,level,target,uar,macro_f1,accuracy
+BEATs linear probe,segment_weighted,target,back_placement,0.358550086393463,0.35132192106514504,0.609375
+BEATs linear probe,segment_weighted,target,breathiness,0.5098362825088185,0.5099265690971201,0.8035300925925926
+BEATs linear probe,segment_weighted,target,chest_resonance,0.3014846235882014,0.3042030619221695,0.5115740740740741
+BEATs linear probe,segment_weighted,target,front_placement,0.3420550368980924,0.34066591121756074,0.6765046296296297
+BEATs linear probe,segment_weighted,target,head_resonance,0.3228619785688,0.3206155871777817,0.4837962962962963
+BEATs linear probe,segment_weighted,target,open_throat,0.28926142989757353,0.2842614906980126,0.5674189814814815
+BEATs linear probe,segment_weighted,target,vibrato,0.36453423268930657,0.36546112713287476,0.6119791666666666
+BEATs linear probe,segment_weighted,target_macro,ALL,0.3555119529348936,0.3537793811872378,0.6091683201058201
+BEATs linear probe,source_equal_weighted,target,back_placement,0.35561050719454584,0.35020782978627046,0.6146177311188428
+BEATs linear probe,source_equal_weighted,target,breathiness,0.515973635882894,0.5157132996039417,0.8119798270160358
+BEATs linear probe,source_equal_weighted,target,chest_resonance,0.30736024143406093,0.30932812437591933,0.5305984741122419
+BEATs linear probe,source_equal_weighted,target,front_placement,0.3386611522533136,0.33677915189880747,0.6749194851475337
+BEATs linear probe,source_equal_weighted,target,head_resonance,0.3265388514922012,0.32270227373814264,0.48874261908551747
+BEATs linear probe,source_equal_weighted,target,open_throat,0.2928217258528046,0.28523841906208613,0.5738968301280881
+BEATs linear probe,source_equal_weighted,target,vibrato,0.36007048405418307,0.36073208891652736,0.6261469948741727
+BEATs linear probe,source_equal_weighted,target_macro,ALL,0.35671951402342905,0.35438588391167075,0.6172717087832046
+BEATs linear probe,aria_equal_weighted,target,back_placement,0.3455384034479581,0.34270033639597647,0.5809576776097468
+BEATs linear probe,aria_equal_weighted,target,breathiness,0.5073568528360404,0.5070631117658222,0.7954686481795855
+BEATs linear probe,aria_equal_weighted,target,chest_resonance,0.30321132379717713,0.30489012261822246,0.5111113359421471
+BEATs linear probe,aria_equal_weighted,target,front_placement,0.3303519081340759,0.3307484655574095,0.6466615248742406
+BEATs linear probe,aria_equal_weighted,target,head_resonance,0.32428783565548946,0.323807597351658,0.5049477245959119
+BEATs linear probe,aria_equal_weighted,target,open_throat,0.2994889467162151,0.2890117529393102,0.5490463884816642
+BEATs linear probe,aria_equal_weighted,target,vibrato,0.3621276927916374,0.3620091625889885,0.6550410401757729
+BEATs linear probe,aria_equal_weighted,target_macro,ALL,0.35319470905408484,0.3514615070310554,0.6061763342655813
+BEATs multi-task,segment_weighted,target,back_placement,0.3565556239754763,0.35788512909153436,0.6510416666666666
+BEATs multi-task,segment_weighted,target,breathiness,0.4962397495647571,0.49483143248953515,0.8165509259259259
+BEATs multi-task,segment_weighted,target,chest_resonance,0.3115247378433337,0.31169457793886846,0.49537037037037035
+BEATs multi-task,segment_weighted,target,front_placement,0.35138303910095386,0.35040112028659437,0.7019675925925926
+BEATs multi-task,segment_weighted,target,head_resonance,0.3179960692562781,0.3155296989990174,0.47366898148148145
+BEATs multi-task,segment_weighted,target,open_throat,0.30526869755326097,0.296641582625782,0.5992476851851852
+BEATs multi-task,segment_weighted,target,vibrato,0.36193164264508565,0.3600369725672654,0.6050347222222222
+BEATs multi-task,segment_weighted,target_macro,ALL,0.35727136570559226,0.35528864485694245,0.6204117063492063
+BEATs multi-task,source_equal_weighted,target,back_placement,0.3562902821879866,0.3567071262733401,0.6516459043481879
+BEATs multi-task,source_equal_weighted,target,breathiness,0.49820920371718913,0.497269638278241,0.826058086037491
+BEATs multi-task,source_equal_weighted,target,chest_resonance,0.31335221444882055,0.3113425824044318,0.5104632211253979
+BEATs multi-task,source_equal_weighted,target,front_placement,0.35073179032912977,0.35032170468499624,0.7088420636363442
+BEATs multi-task,source_equal_weighted,target,head_resonance,0.31838883438845456,0.31471128687277217,0.47989427604155754
+BEATs multi-task,source_equal_weighted,target,open_throat,0.3032814045448238,0.29240666244989943,0.602729992247269
+BEATs multi-task,source_equal_weighted,target,vibrato,0.36484022447802017,0.3626348516852859,0.624628318887848
+BEATs multi-task,source_equal_weighted,target_macro,ALL,0.35787056487063207,0.3550562646641381,0.6291802660462993
+BEATs multi-task,aria_equal_weighted,target,back_placement,0.3441505867049009,0.3447669032916336,0.6016105678922096
+BEATs multi-task,aria_equal_weighted,target,breathiness,0.4969596800430643,0.4952265062770167,0.8210789605397415
+BEATs multi-task,aria_equal_weighted,target,chest_resonance,0.3115421043423403,0.31001125285151726,0.5037238037241913
+BEATs multi-task,aria_equal_weighted,target,front_placement,0.3460517037748115,0.3456195445390698,0.6851480740830744
+BEATs multi-task,aria_equal_weighted,target,head_resonance,0.3170689832370224,0.31302002379460503,0.48472805133238905
+BEATs multi-task,aria_equal_weighted,target,open_throat,0.30502548400359564,0.2924717096864521,0.5720178175843021
+BEATs multi-task,aria_equal_weighted,target,vibrato,0.3645662239168433,0.3625062656093552,0.6540496409045097
+BEATs multi-task,aria_equal_weighted,target_macro,ALL,0.3550521094317968,0.3519460294356643,0.6174795594372026
+Class-bias-adjusted MERT,segment_weighted,target,back_placement,0.3805498667494806,0.3546935330314944,0.5691550925925926
+Class-bias-adjusted MERT,segment_weighted,target,breathiness,0.4888433084248963,0.48113353390969305,0.7077546296296297
+Class-bias-adjusted MERT,segment_weighted,target,chest_resonance,0.36500027000769897,0.32674551880540487,0.42042824074074076
+Class-bias-adjusted MERT,segment_weighted,target,front_placement,0.3650303353081888,0.3579424112024722,0.6438078703703703
+Class-bias-adjusted MERT,segment_weighted,target,head_resonance,0.34015507587296473,0.32717626898619295,0.4366319444444444
+Class-bias-adjusted MERT,segment_weighted,target,open_throat,0.31323029289048177,0.27471785389596326,0.4331597222222222
+Class-bias-adjusted MERT,segment_weighted,target,vibrato,0.3119407498096545,0.31318309713661246,0.46730324074074076
+Class-bias-adjusted MERT,segment_weighted,target_macro,ALL,0.366392842723338,0.34794174528111904,0.525462962962963
+Class-bias-adjusted MERT,source_equal_weighted,target,back_placement,0.3616026428240314,0.3410220454188233,0.5636604464958505
+Class-bias-adjusted MERT,source_equal_weighted,target,breathiness,0.4768710881931214,0.46995222627175515,0.6993254841897888
+Class-bias-adjusted MERT,source_equal_weighted,target,chest_resonance,0.3710560302427416,0.32332759724786503,0.4280121425814607
+Class-bias-adjusted MERT,source_equal_weighted,target,front_placement,0.362550445147436,0.35307092070564705,0.6425408307812089
+Class-bias-adjusted MERT,source_equal_weighted,target,head_resonance,0.3443064660157474,0.32704216643692213,0.4349402166379029
+Class-bias-adjusted MERT,source_equal_weighted,target,open_throat,0.33057043389457286,0.2712001537513908,0.418447300912578
+Class-bias-adjusted MERT,source_equal_weighted,target,vibrato,0.3243835722773072,0.32153450785569665,0.4952043506233196
+Class-bias-adjusted MERT,source_equal_weighted,target_macro,ALL,0.3673343826564226,0.34387851681258574,0.5260186817460156
+Class-bias-adjusted MERT,aria_equal_weighted,target,back_placement,0.36054384452757376,0.3395576894679941,0.5285361430549714
+Class-bias-adjusted MERT,aria_equal_weighted,target,breathiness,0.45751561184992656,0.4574281290478084,0.6874085260007446
+Class-bias-adjusted MERT,aria_equal_weighted,target,chest_resonance,0.3767938204126742,0.3346490041278083,0.44879680254325494
+Class-bias-adjusted MERT,aria_equal_weighted,target,front_placement,0.36429556454797224,0.35737540125402684,0.6059993054051692
+Class-bias-adjusted MERT,aria_equal_weighted,target,head_resonance,0.3381637736168769,0.31903311967717046,0.4364819346298398
+Class-bias-adjusted MERT,aria_equal_weighted,target,open_throat,0.3537259225043724,0.2821617584077048,0.412726866491703
+Class-bias-adjusted MERT,aria_equal_weighted,target,vibrato,0.32305069081534094,0.32040140675967976,0.5201786252786664
+Class-bias-adjusted MERT,aria_equal_weighted,target_macro,ALL,0.3677270326106767,0.34437235839174185,0.5200183147720498
+Class-bias-adjusted MERT/MuQ feature concatenation,segment_weighted,target,back_placement,0.36991075576823146,0.36264360418998437,0.6293402777777778
+Class-bias-adjusted MERT/MuQ feature concatenation,segment_weighted,target,breathiness,0.48063303545213565,0.46339257987794513,0.6521990740740741
+Class-bias-adjusted MERT/MuQ feature concatenation,segment_weighted,target,chest_resonance,0.3352600099638236,0.30617481783254596,0.4039351851851852
+Class-bias-adjusted MERT/MuQ feature concatenation,segment_weighted,target,front_placement,0.38247183679208013,0.3700945456193449,0.6423611111111112
+Class-bias-adjusted MERT/MuQ feature concatenation,segment_weighted,target,head_resonance,0.32495802281488195,0.3139944694454837,0.4375
+Class-bias-adjusted MERT/MuQ feature concatenation,segment_weighted,target,open_throat,0.308146975114396,0.2893605779017117,0.5034722222222222
+Class-bias-adjusted MERT/MuQ feature concatenation,segment_weighted,target,vibrato,0.39181955071425784,0.3650883319055793,0.5564236111111112
+Class-bias-adjusted MERT/MuQ feature concatenation,segment_weighted,target_macro,ALL,0.3704571695171152,0.352964132396085,0.5464616402116402
+Class-bias-adjusted MERT/MuQ feature concatenation,source_equal_weighted,target,back_placement,0.345312121700037,0.3420010398141347,0.6108082965087547
+Class-bias-adjusted MERT/MuQ feature concatenation,source_equal_weighted,target,breathiness,0.4843883125264671,0.4677532083878602,0.6717236035652184
+Class-bias-adjusted MERT/MuQ feature concatenation,source_equal_weighted,target,chest_resonance,0.34364655761918367,0.3088679412518048,0.4249160660583711
+Class-bias-adjusted MERT/MuQ feature concatenation,source_equal_weighted,target,front_placement,0.37419976016089856,0.3605615703351123,0.6403563776827581
+Class-bias-adjusted MERT/MuQ feature concatenation,source_equal_weighted,target,head_resonance,0.32394489483897454,0.31290762744861417,0.4422354662978315
+Class-bias-adjusted MERT/MuQ feature concatenation,source_equal_weighted,target,open_throat,0.31972441458158174,0.28983297455325685,0.5017642864494866
+Class-bias-adjusted MERT/MuQ feature concatenation,source_equal_weighted,target,vibrato,0.3874122648548241,0.36261136594322246,0.5732253632126302
+Class-bias-adjusted MERT/MuQ feature concatenation,source_equal_weighted,target_macro,ALL,0.3683754751831381,0.3492193896762865,0.5521470656821501
+Class-bias-adjusted MERT/MuQ feature concatenation,aria_equal_weighted,target,back_placement,0.33190658568811954,0.33249004401266047,0.5565875048218071
+Class-bias-adjusted MERT/MuQ feature concatenation,aria_equal_weighted,target,breathiness,0.48067205802140744,0.47055894635313544,0.6821818856597263
+Class-bias-adjusted MERT/MuQ feature concatenation,aria_equal_weighted,target,chest_resonance,0.33479365477539724,0.3014603019096467,0.41526338892538023
+Class-bias-adjusted MERT/MuQ feature concatenation,aria_equal_weighted,target,front_placement,0.3791530599919731,0.37029291480418863,0.6196142651578797
+Class-bias-adjusted MERT/MuQ feature concatenation,aria_equal_weighted,target,head_resonance,0.3150155612101023,0.30165802311772766,0.43881068889199526
+Class-bias-adjusted MERT/MuQ feature concatenation,aria_equal_weighted,target,open_throat,0.3194048771078593,0.2982669990660864,0.4843342494717747
+Class-bias-adjusted MERT/MuQ feature concatenation,aria_equal_weighted,target,vibrato,0.3929766211488445,0.3723900761767933,0.6153861093927854
+Class-bias-adjusted MERT/MuQ feature concatenation,aria_equal_weighted,target_macro,ALL,0.36484605970624334,0.34958818649146267,0.5445968703316212
+Class-bias-adjusted MERT/MuQ posterior fusion,segment_weighted,target,back_placement,0.4033448603577452,0.35308771252204907,0.5425347222222222
+Class-bias-adjusted MERT/MuQ posterior fusion,segment_weighted,target,breathiness,0.5108891360893891,0.473376712216318,0.6374421296296297
+Class-bias-adjusted MERT/MuQ posterior fusion,segment_weighted,target,chest_resonance,0.3753514724385595,0.33161686011035774,0.4207175925925926
+Class-bias-adjusted MERT/MuQ posterior fusion,segment_weighted,target,front_placement,0.400459407629478,0.3796787267440614,0.625
+Class-bias-adjusted MERT/MuQ posterior fusion,segment_weighted,target,head_resonance,0.3365391972620307,0.3211795898465696,0.43113425925925924
+Class-bias-adjusted MERT/MuQ posterior fusion,segment_weighted,target,open_throat,0.3049561581591841,0.2884011453811655,0.5147569444444444
+Class-bias-adjusted MERT/MuQ posterior fusion,segment_weighted,target,vibrato,0.35704281655703385,0.35470154723214403,0.5772569444444444
+Class-bias-adjusted MERT/MuQ posterior fusion,segment_weighted,target_macro,ALL,0.38408329264191726,0.357434613436095,0.5355489417989417
+Class-bias-adjusted MERT/MuQ posterior fusion,source_equal_weighted,target,back_placement,0.36399684477974054,0.32894079692665645,0.5199997639324828
+Class-bias-adjusted MERT/MuQ posterior fusion,source_equal_weighted,target,breathiness,0.5127733729355761,0.477802508563695,0.6589814197659547
+Class-bias-adjusted MERT/MuQ posterior fusion,source_equal_weighted,target,chest_resonance,0.3878922309791508,0.33103282211920193,0.43545179495674674
+Class-bias-adjusted MERT/MuQ posterior fusion,source_equal_weighted,target,front_placement,0.39966356527548524,0.37245543965789346,0.618619337434202
+Class-bias-adjusted MERT/MuQ posterior fusion,source_equal_weighted,target,head_resonance,0.33667028389596215,0.32009651094887065,0.43522639085422676
+Class-bias-adjusted MERT/MuQ posterior fusion,source_equal_weighted,target,open_throat,0.3187742856229644,0.28983682105521863,0.5097210848999764
+Class-bias-adjusted MERT/MuQ posterior fusion,source_equal_weighted,target,vibrato,0.36671486414718374,0.36226465425238746,0.6048015824454775
+Class-bias-adjusted MERT/MuQ posterior fusion,source_equal_weighted,target_macro,ALL,0.3837836353765804,0.35463279336056047,0.5404001963270096
+Class-bias-adjusted MERT/MuQ posterior fusion,aria_equal_weighted,target,back_placement,0.3580963384029498,0.3223040201484085,0.4700992889602873
+Class-bias-adjusted MERT/MuQ posterior fusion,aria_equal_weighted,target,breathiness,0.5154757456243536,0.49276321594654093,0.6922453733168447
+Class-bias-adjusted MERT/MuQ posterior fusion,aria_equal_weighted,target,chest_resonance,0.3925691437042651,0.33951211519259794,0.4564399692015324
+Class-bias-adjusted MERT/MuQ posterior fusion,aria_equal_weighted,target,front_placement,0.40846709890895744,0.3866773980947389,0.6005702672931373
+Class-bias-adjusted MERT/MuQ posterior fusion,aria_equal_weighted,target,head_resonance,0.32915797971879035,0.30781472794060694,0.42967665467794663
+Class-bias-adjusted MERT/MuQ posterior fusion,aria_equal_weighted,target,open_throat,0.3317726048782705,0.30386217287433864,0.4999864100682103
+Class-bias-adjusted MERT/MuQ posterior fusion,aria_equal_weighted,target,vibrato,0.3734013879348123,0.36950076076466215,0.648649691446801
+Class-bias-adjusted MERT/MuQ posterior fusion,aria_equal_weighted,target_macro,ALL,0.3869914713103427,0.3603477729945563,0.5425239507092513
+Class-bias-adjusted MuQ,segment_weighted,target,back_placement,0.37349174717912587,0.35486902039199975,0.5775462962962963
+Class-bias-adjusted MuQ,segment_weighted,target,breathiness,0.4958659162431405,0.4830786515442754,0.6967592592592593
+Class-bias-adjusted MuQ,segment_weighted,target,chest_resonance,0.34466883414426414,0.30666842703245883,0.3888888888888889
+Class-bias-adjusted MuQ,segment_weighted,target,front_placement,0.400557877178384,0.3791374773048852,0.6206597222222222
+Class-bias-adjusted MuQ,segment_weighted,target,head_resonance,0.32745038739147825,0.30725294763412697,0.3967013888888889
+Class-bias-adjusted MuQ,segment_weighted,target,open_throat,0.30454541709405014,0.2948775317213208,0.5839120370370371
+Class-bias-adjusted MuQ,segment_weighted,target,vibrato,0.4003462235180893,0.3800362804300515,0.5688657407407407
+Class-bias-adjusted MuQ,segment_weighted,target_macro,ALL,0.3781323432497903,0.35798861943701693,0.5476190476190476
+Class-bias-adjusted MuQ,source_equal_weighted,target,back_placement,0.3512681447936561,0.336789563496065,0.5566381040778069
+Class-bias-adjusted MuQ,source_equal_weighted,target,breathiness,0.5013212527466692,0.48965668384482197,0.7222814974824795
+Class-bias-adjusted MuQ,source_equal_weighted,target,chest_resonance,0.3498692783301837,0.3070208842010181,0.40759063402146356
+Class-bias-adjusted MuQ,source_equal_weighted,target,front_placement,0.3965921875134062,0.3689347310681003,0.612328494674285
+Class-bias-adjusted MuQ,source_equal_weighted,target,head_resonance,0.3285705463673349,0.3059084313446772,0.4005825805046495
+Class-bias-adjusted MuQ,source_equal_weighted,target,open_throat,0.306409417772104,0.29223981506539215,0.5788432207786702
+Class-bias-adjusted MuQ,source_equal_weighted,target,vibrato,0.4052552023095503,0.37924719244599187,0.5830370521348862
+Class-bias-adjusted MuQ,source_equal_weighted,target_macro,ALL,0.3770408614047006,0.35425675735229517,0.551614511953463
+Class-bias-adjusted MuQ,aria_equal_weighted,target,back_placement,0.3378707039328277,0.32755175411335274,0.49369196645398533
+Class-bias-adjusted MuQ,aria_equal_weighted,target,breathiness,0.5076261612704369,0.5028296942121864,0.7568434409226249
+Class-bias-adjusted MuQ,aria_equal_weighted,target,chest_resonance,0.3389682664315633,0.3005673366848236,0.4018485317968777
+Class-bias-adjusted MuQ,aria_equal_weighted,target,front_placement,0.38939110967230195,0.3724967934218936,0.5945827162084991
+Class-bias-adjusted MuQ,aria_equal_weighted,target,head_resonance,0.3224058015057831,0.2969399387784593,0.40341597936927087
+Class-bias-adjusted MuQ,aria_equal_weighted,target,open_throat,0.3064571180932824,0.29494369404068843,0.5492798471782515
+Class-bias-adjusted MuQ,aria_equal_weighted,target,vibrato,0.4178880222336436,0.3927689993411638,0.6300075957163916
+Class-bias-adjusted MuQ,aria_equal_weighted,target_macro,ALL,0.37437245473426267,0.35544260151322404,0.5470957253779859
+ComParE (inner-tuned),segment_weighted,target,back_placement,0.33168909454283985,0.32895115200983155,0.5998263888888888
+ComParE (inner-tuned),segment_weighted,target,breathiness,0.501913001046237,0.5002160106158986,0.7699652777777778
+ComParE (inner-tuned),segment_weighted,target,chest_resonance,0.29386120026874374,0.29341493139261277,0.4774305555555556
+ComParE (inner-tuned),segment_weighted,target,front_placement,0.3491680432814495,0.34880724774781163,0.6883680555555556
+ComParE (inner-tuned),segment_weighted,target,head_resonance,0.28963015773689393,0.2885247833154337,0.4366319444444444
+ComParE (inner-tuned),segment_weighted,target,open_throat,0.28490963104890105,0.2846555922311285,0.5645254629629629
+ComParE (inner-tuned),segment_weighted,target,vibrato,0.3587799495183504,0.3601120302038093,0.5894097222222222
+ComParE (inner-tuned),segment_weighted,target_macro,ALL,0.3442787253490593,0.3435259639309323,0.5894510582010583
+ComParE (inner-tuned),source_equal_weighted,target,back_placement,0.325794061213511,0.32319073375140506,0.6030960876460888
+ComParE (inner-tuned),source_equal_weighted,target,breathiness,0.4936942418208107,0.4926295451022838,0.7734374773512155
+ComParE (inner-tuned),source_equal_weighted,target,chest_resonance,0.2956096048392054,0.2920786177117961,0.4834799434651595
+ComParE (inner-tuned),source_equal_weighted,target,front_placement,0.34321089878910954,0.3426103055714118,0.6934200590951742
+ComParE (inner-tuned),source_equal_weighted,target,head_resonance,0.29010442415636883,0.2888535544739109,0.4433453356377409
+ComParE (inner-tuned),source_equal_weighted,target,open_throat,0.2870397008237619,0.2858344248144656,0.57257676525783
+ComParE (inner-tuned),source_equal_weighted,target,vibrato,0.3570942933712071,0.35806425509784107,0.5985288730232584
+ComParE (inner-tuned),source_equal_weighted,target_macro,ALL,0.341792460716282,0.3404659195033021,0.595412077353781
+ComParE (inner-tuned),aria_equal_weighted,target,back_placement,0.33336378165405894,0.33306685398481467,0.5906400604115709
+ComParE (inner-tuned),aria_equal_weighted,target,breathiness,0.49449930088556043,0.4943575181915409,0.7792065237367242
+ComParE (inner-tuned),aria_equal_weighted,target,chest_resonance,0.2915167165320729,0.2898711541256912,0.4730281050790262
+ComParE (inner-tuned),aria_equal_weighted,target,front_placement,0.3395513330201721,0.33980332833381616,0.6612587612344956
+ComParE (inner-tuned),aria_equal_weighted,target,head_resonance,0.29219397473978254,0.293720424900127,0.4661887537490423
+ComParE (inner-tuned),aria_equal_weighted,target,open_throat,0.28714202823169865,0.28507710538949693,0.5491009391131493
+ComParE (inner-tuned),aria_equal_weighted,target,vibrato,0.36888382550729776,0.36689691166115906,0.6305249574673242
+ComParE (inner-tuned),aria_equal_weighted,target_macro,ALL,0.34387870865294906,0.34325618522666373,0.5928497286844759
+Inner-weighted calibrated fusion,segment_weighted,target,back_placement,0.35088635595624734,0.35520821537737896,0.671875
+Inner-weighted calibrated fusion,segment_weighted,target,breathiness,0.5088979774128584,0.5090318985017867,0.8194444444444444
+Inner-weighted calibrated fusion,segment_weighted,target,chest_resonance,0.32440746540715826,0.32435921123035694,0.4947916666666667
+Inner-weighted calibrated fusion,segment_weighted,target,front_placement,0.3511783963785971,0.3508040121039992,0.7398726851851852
+Inner-weighted calibrated fusion,segment_weighted,target,head_resonance,0.3178992640436245,0.3141147124409036,0.4809027777777778
+Inner-weighted calibrated fusion,segment_weighted,target,open_throat,0.2977038218938096,0.28788060617983896,0.6108217592592593
+Inner-weighted calibrated fusion,segment_weighted,target,vibrato,0.3500311761297983,0.3495794178548845,0.6140046296296297
+Inner-weighted calibrated fusion,segment_weighted,target_macro,ALL,0.3572863510317276,0.35585401052702126,0.6331018518518519
+Inner-weighted calibrated fusion,source_equal_weighted,target,back_placement,0.34550779930045716,0.34952957442097365,0.666781758238504
+Inner-weighted calibrated fusion,source_equal_weighted,target,breathiness,0.5093898980709566,0.5096802418183389,0.8275817853369822
+Inner-weighted calibrated fusion,source_equal_weighted,target,chest_resonance,0.32924343114883114,0.326625675161067,0.5117334625558209
+Inner-weighted calibrated fusion,source_equal_weighted,target,front_placement,0.34784959409357347,0.3476392126336419,0.74177086058269
+Inner-weighted calibrated fusion,source_equal_weighted,target,head_resonance,0.31547404584474154,0.310950940049041,0.4847183872791839
+Inner-weighted calibrated fusion,source_equal_weighted,target,open_throat,0.3017333203582402,0.2896682752422909,0.6158221874110542
+Inner-weighted calibrated fusion,source_equal_weighted,target,vibrato,0.3499567074865109,0.3495625802466376,0.6394042196962275
+Inner-weighted calibrated fusion,source_equal_weighted,target_macro,ALL,0.3570221137576159,0.35480807136742726,0.6411160944429232
+Inner-weighted calibrated fusion,aria_equal_weighted,target,back_placement,0.3360660846259485,0.3341497492658643,0.621443907170849
+Inner-weighted calibrated fusion,aria_equal_weighted,target,breathiness,0.5068094699140225,0.5062843900362023,0.8267186333161409
+Inner-weighted calibrated fusion,aria_equal_weighted,target,chest_resonance,0.32570198910098136,0.32375859675363106,0.5056280122422041
+Inner-weighted calibrated fusion,aria_equal_weighted,target,front_placement,0.3498460894116668,0.3486591333583913,0.7101976648425047
+Inner-weighted calibrated fusion,aria_equal_weighted,target,head_resonance,0.3126632281473348,0.30557422856788363,0.48326167298904343
+Inner-weighted calibrated fusion,aria_equal_weighted,target,open_throat,0.30286808882672894,0.29203400012311276,0.5795013463599716
+Inner-weighted calibrated fusion,aria_equal_weighted,target,vibrato,0.35401043724209974,0.35439239916957926,0.6844220762434384
+Inner-weighted calibrated fusion,aria_equal_weighted,target_macro,ALL,0.3554236267526832,0.3521217853249521,0.6301676161663075
+MERT linear probe,segment_weighted,target,back_placement,0.3693909483052426,0.3725782700339036,0.6808449074074074
+MERT linear probe,segment_weighted,target,breathiness,0.49987180494502087,0.49916781526235693,0.7780671296296297
+MERT linear probe,segment_weighted,target,chest_resonance,0.31411811297964776,0.31695233577288845,0.49594907407407407
+MERT linear probe,segment_weighted,target,front_placement,0.335374164025333,0.33462485677064846,0.6611689814814815
+MERT linear probe,segment_weighted,target,head_resonance,0.30733330285545535,0.3075583596618322,0.4704861111111111
+MERT linear probe,segment_weighted,target,open_throat,0.3142696751928176,0.3154485459757557,0.5925925925925926
+MERT linear probe,segment_weighted,target,vibrato,0.3533408741281885,0.35186203288500745,0.6235532407407407
+MERT linear probe,segment_weighted,target_macro,ALL,0.3562426974902437,0.35688460233748465,0.6146660052910053
+MERT linear probe,source_equal_weighted,target,back_placement,0.3615113349429984,0.364320969912969,0.6718184838478976
+MERT linear probe,source_equal_weighted,target,breathiness,0.49910422087454653,0.4983181521547093,0.787062059140968
+MERT linear probe,source_equal_weighted,target,chest_resonance,0.3195439633529365,0.3191081492958353,0.5064374634911031
+MERT linear probe,source_equal_weighted,target,front_placement,0.33276409630739334,0.33130748938763993,0.662951617669246
+MERT linear probe,source_equal_weighted,target,head_resonance,0.31138957978740994,0.3115882083052146,0.48034381051197567
+MERT linear probe,source_equal_weighted,target,open_throat,0.3175223148288303,0.31635297105799953,0.603251321448015
+MERT linear probe,source_equal_weighted,target,vibrato,0.35154292039218826,0.3504983946370852,0.6396318002371346
+MERT linear probe,source_equal_weighted,target_macro,ALL,0.3561969186409005,0.35592776210735044,0.6216423651923343
+MERT linear probe,aria_equal_weighted,target,back_placement,0.3575698770108508,0.35850489566611093,0.6246487895679778
+MERT linear probe,aria_equal_weighted,target,breathiness,0.49855937216345136,0.49841489493078406,0.7876614721242173
+MERT linear probe,aria_equal_weighted,target,chest_resonance,0.3225466664318556,0.3231414027234669,0.5064585952060559
+MERT linear probe,aria_equal_weighted,target,front_placement,0.33744838009954586,0.3372550047094504,0.6369872035299553
+MERT linear probe,aria_equal_weighted,target,head_resonance,0.3116738145054562,0.3126064817442208,0.49271991056130043
+MERT linear probe,aria_equal_weighted,target,open_throat,0.3086371545862363,0.30713862842901524,0.568267854815395
+MERT linear probe,aria_equal_weighted,target,vibrato,0.35227604204215873,0.3505137266973523,0.6725725941878999
+MERT linear probe,aria_equal_weighted,target_macro,ALL,0.355530186691365,0.3553678621286287,0.6127594885704001
+MERT multi-task,segment_weighted,target,back_placement,0.3429817648118539,0.34732159729148154,0.6455439814814815
+MERT multi-task,segment_weighted,target,breathiness,0.48709323915821334,0.4840279890477639,0.8159722222222222
+MERT multi-task,segment_weighted,target,chest_resonance,0.331614713348934,0.33267877204824503,0.5083912037037037
+MERT multi-task,segment_weighted,target,front_placement,0.3386711752436118,0.3380837043647927,0.7048611111111112
+MERT multi-task,segment_weighted,target,head_resonance,0.32040288222303576,0.318061874533242,0.4765625
+MERT multi-task,segment_weighted,target,open_throat,0.2986339752271366,0.29637117567297455,0.6131365740740741
+MERT multi-task,segment_weighted,target,vibrato,0.3466881425708357,0.3437571941427761,0.6284722222222222
+MERT multi-task,segment_weighted,target_macro,ALL,0.352297984654803,0.3514717581573251,0.6275628306878307
+MERT multi-task,source_equal_weighted,target,back_placement,0.3402073627228093,0.344482027065456,0.6464569484219318
+MERT multi-task,source_equal_weighted,target,breathiness,0.4863232470476409,0.4838365330645664,0.8231340355662154
+MERT multi-task,source_equal_weighted,target,chest_resonance,0.33613726601506305,0.3326690980509428,0.5223816938539915
+MERT multi-task,source_equal_weighted,target,front_placement,0.3382472075782074,0.3379812335070589,0.7130821794287313
+MERT multi-task,source_equal_weighted,target,head_resonance,0.3231361114511492,0.31900864662273815,0.48078094787792985
+MERT multi-task,source_equal_weighted,target,open_throat,0.30456753248899865,0.3003201566766794,0.6181527063166717
+MERT multi-task,source_equal_weighted,target,vibrato,0.3512066232980564,0.3502866496146048,0.6456873999985695
+MERT multi-task,source_equal_weighted,target_macro,ALL,0.3542607643717036,0.352654906371721,0.6356679873520059
+MERT multi-task,aria_equal_weighted,target,back_placement,0.3345616177033957,0.3334164732753633,0.6083179690692554
+MERT multi-task,aria_equal_weighted,target,breathiness,0.48234174946578046,0.4784222989948085,0.8160166303930925
+MERT multi-task,aria_equal_weighted,target,chest_resonance,0.3391782001209798,0.3385539209017661,0.5272375047315573
+MERT multi-task,aria_equal_weighted,target,front_placement,0.3402520098133462,0.338943759488483,0.6873120901960876
+MERT multi-task,aria_equal_weighted,target,head_resonance,0.3127286637835072,0.3060950747383762,0.4741336208820951
+MERT multi-task,aria_equal_weighted,target,open_throat,0.3078275852192796,0.30193043090877736,0.5890664060402964
+MERT multi-task,aria_equal_weighted,target,vibrato,0.3455687279362827,0.3454727252486072,0.6725381773299078
+MERT multi-task,aria_equal_weighted,target_macro,ALL,0.3517797934346531,0.34897638336516884,0.6249460569488988
+MERT/MuQ posterior fusion,segment_weighted,target,back_placement,0.34308710321097907,0.3431100884474143,0.6796875
+MERT/MuQ posterior fusion,segment_weighted,target,breathiness,0.499385490800971,0.49211264188641834,0.8475115740740741
+MERT/MuQ posterior fusion,segment_weighted,target,chest_resonance,0.3326944808165567,0.3366905906985138,0.5176504629629629
+MERT/MuQ posterior fusion,segment_weighted,target,front_placement,0.3456917138198185,0.3428249843987305,0.7502893518518519
+MERT/MuQ posterior fusion,segment_weighted,target,head_resonance,0.31579882634328865,0.31222997475735054,0.484375
+MERT/MuQ posterior fusion,segment_weighted,target,open_throat,0.303099777153653,0.29839632877547606,0.6357060185185185
+MERT/MuQ posterior fusion,segment_weighted,target,vibrato,0.35617542694006726,0.3511921307416201,0.6556712962962963
+MERT/MuQ posterior fusion,segment_weighted,target_macro,ALL,0.35656183129790486,0.3537938199579319,0.6529844576719576
+MERT/MuQ posterior fusion,source_equal_weighted,target,back_placement,0.3363758192882967,0.3359984977705053,0.6748398494404515
+MERT/MuQ posterior fusion,source_equal_weighted,target,breathiness,0.49903410737574794,0.493128593195019,0.8531986393570822
+MERT/MuQ posterior fusion,source_equal_weighted,target,chest_resonance,0.3370129611874336,0.3382398557086448,0.5337677229321275
+MERT/MuQ posterior fusion,source_equal_weighted,target,front_placement,0.34102599673297024,0.33870987030675065,0.7531342305892315
+MERT/MuQ posterior fusion,source_equal_weighted,target,head_resonance,0.3141474748181371,0.3088519959477687,0.48421790111667457
+MERT/MuQ posterior fusion,source_equal_weighted,target,open_throat,0.30735384848425895,0.30067001390024556,0.6382527727540189
+MERT/MuQ posterior fusion,source_equal_weighted,target,vibrato,0.3580776879770751,0.35555064955626636,0.6729704229309753
+MERT/MuQ posterior fusion,source_equal_weighted,target_macro,ALL,0.35614684226627424,0.3530213537693143,0.6586259341600803
+MERT/MuQ posterior fusion,aria_equal_weighted,target,back_placement,0.3312851263652559,0.32604874550602964,0.6290335168942705
+MERT/MuQ posterior fusion,aria_equal_weighted,target,breathiness,0.4964968103466964,0.4888957414755885,0.845476491113998
+MERT/MuQ posterior fusion,aria_equal_weighted,target,chest_resonance,0.33975663901965547,0.34127899209244233,0.5369136311011989
+MERT/MuQ posterior fusion,aria_equal_weighted,target,front_placement,0.341964670506566,0.3362671348158109,0.7213112091570042
+MERT/MuQ posterior fusion,aria_equal_weighted,target,head_resonance,0.3093318776683758,0.30203910402648093,0.4902049344964734
+MERT/MuQ posterior fusion,aria_equal_weighted,target,open_throat,0.309559475369779,0.30207871334045255,0.6019874534909341
+MERT/MuQ posterior fusion,aria_equal_weighted,target,vibrato,0.3556008769387256,0.3542727643901213,0.7077483295449193
+MERT/MuQ posterior fusion,aria_equal_weighted,target_macro,ALL,0.3548564966021505,0.350125885092418,0.6475250808283998
+MuQ multi-task,segment_weighted,target,back_placement,0.3534603387139866,0.3545614683747222,0.6516203703703703
+MuQ multi-task,segment_weighted,target,breathiness,0.5083670017657835,0.5085271317829457,0.8165509259259259
+MuQ multi-task,segment_weighted,target,chest_resonance,0.32524200114394886,0.32351877793110917,0.48842592592592593
+MuQ multi-task,segment_weighted,target,front_placement,0.3610856558071031,0.36179650545723274,0.7219328703703703
+MuQ multi-task,segment_weighted,target,head_resonance,0.3119654867040964,0.3062508049624557,0.4609375
+MuQ multi-task,segment_weighted,target,open_throat,0.30691916085396076,0.29974153391510205,0.6064814814814815
+MuQ multi-task,segment_weighted,target,vibrato,0.35035629042966887,0.3504945688929147,0.6085069444444444
+MuQ multi-task,segment_weighted,target_macro,ALL,0.3596279907740783,0.3578415416166404,0.6220651455026455
+MuQ multi-task,source_equal_weighted,target,back_placement,0.34303085199723343,0.3439662187479782,0.6410929451311456
+MuQ multi-task,source_equal_weighted,target,breathiness,0.5085468798366083,0.5087953936775567,0.824832318528276
+MuQ multi-task,source_equal_weighted,target,chest_resonance,0.3286151062226571,0.32395821564669064,0.5025030780376413
+MuQ multi-task,source_equal_weighted,target,front_placement,0.35480517053515365,0.35545202004412535,0.7228430575062621
+MuQ multi-task,source_equal_weighted,target,head_resonance,0.30828836977332247,0.3021300407243223,0.46282452010582587
+MuQ multi-task,source_equal_weighted,target,open_throat,0.309470212281401,0.29770120642811293,0.6101068292043192
+MuQ multi-task,source_equal_weighted,target,vibrato,0.34782643741201097,0.3479432636477186,0.6300095607366142
+MuQ multi-task,source_equal_weighted,target_macro,ALL,0.3572261468654839,0.3542780512737864,0.6277446156071548
+MuQ multi-task,aria_equal_weighted,target,back_placement,0.3384655202524032,0.33908903721181494,0.597626643407416
+MuQ multi-task,aria_equal_weighted,target,breathiness,0.5064557480787808,0.5060254174166237,0.8247555394802556
+MuQ multi-task,aria_equal_weighted,target,chest_resonance,0.32511132930813624,0.32127150815375655,0.495867600394188
+MuQ multi-task,aria_equal_weighted,target,front_placement,0.3602145843473574,0.36221047612322327,0.691671616153979
+MuQ multi-task,aria_equal_weighted,target,head_resonance,0.30619111171503094,0.29944235337987934,0.4725053579539828
+MuQ multi-task,aria_equal_weighted,target,open_throat,0.31027222117062675,0.2990754922267017,0.5749234115346871
+MuQ multi-task,aria_equal_weighted,target,vibrato,0.3534542325961046,0.3542156527572023,0.6727131955665755
+MuQ multi-task,aria_equal_weighted,target_macro,ALL,0.3571663924954914,0.3544757053241717,0.6185804806415833
+eGeMAPS (inner-tuned),segment_weighted,target,back_placement,0.3585724477349664,0.35752988132961067,0.6469907407407407
+eGeMAPS (inner-tuned),segment_weighted,target,breathiness,0.5009358239013477,0.49958690708390474,0.8229166666666666
+eGeMAPS (inner-tuned),segment_weighted,target,chest_resonance,0.3216983787412123,0.32088078821912397,0.49363425925925924
+eGeMAPS (inner-tuned),segment_weighted,target,front_placement,0.3254139007887544,0.32400720260845733,0.6990740740740741
+eGeMAPS (inner-tuned),segment_weighted,target,head_resonance,0.29077624570624866,0.29155951297466143,0.4832175925925926
+eGeMAPS (inner-tuned),segment_weighted,target,open_throat,0.288697873349493,0.28484702528662276,0.5908564814814815
+eGeMAPS (inner-tuned),segment_weighted,target,vibrato,0.37908537439965606,0.3699857580859276,0.6180555555555556
+eGeMAPS (inner-tuned),segment_weighted,target_macro,ALL,0.3521685778030969,0.3497710107983298,0.6221064814814815
+eGeMAPS (inner-tuned),source_equal_weighted,target,back_placement,0.35581847335502315,0.35491616535455733,0.6499469306932548
+eGeMAPS (inner-tuned),source_equal_weighted,target,breathiness,0.498987265047415,0.49774242378222583,0.8300111737881072
+eGeMAPS (inner-tuned),source_equal_weighted,target,chest_resonance,0.326140186309269,0.32256640542603154,0.5083066192451703
+eGeMAPS (inner-tuned),source_equal_weighted,target,front_placement,0.3280129593759599,0.32668067344240476,0.7142826463837543
+eGeMAPS (inner-tuned),source_equal_weighted,target,head_resonance,0.2918752762946675,0.292195687605276,0.48298064329947743
+eGeMAPS (inner-tuned),source_equal_weighted,target,open_throat,0.2897685048148514,0.28239773274290614,0.5934595689368778
+eGeMAPS (inner-tuned),source_equal_weighted,target,vibrato,0.3774109529042489,0.3690754261231783,0.6344136312656526
+eGeMAPS (inner-tuned),source_equal_weighted,target_macro,ALL,0.3525733740144907,0.3493677877823686,0.6304858876588993
+eGeMAPS (inner-tuned),aria_equal_weighted,target,back_placement,0.358458189766481,0.35735723160250094,0.6112751244091603
+eGeMAPS (inner-tuned),aria_equal_weighted,target,breathiness,0.5025388069268356,0.5009664269937694,0.8283969098878562
+eGeMAPS (inner-tuned),aria_equal_weighted,target,chest_resonance,0.3234578917029634,0.3213039476790445,0.5012135601603244
+eGeMAPS (inner-tuned),aria_equal_weighted,target,front_placement,0.3300096833175958,0.32764602185757447,0.6899615602309748
+eGeMAPS (inner-tuned),aria_equal_weighted,target,head_resonance,0.28911078362157877,0.2875097395735508,0.4826619901427073
+eGeMAPS (inner-tuned),aria_equal_weighted,target,open_throat,0.2919547416400602,0.28386777041867844,0.5662116705639085
+eGeMAPS (inner-tuned),aria_equal_weighted,target,vibrato,0.3887287464374129,0.3800619110046486,0.6561462044398834
+eGeMAPS (inner-tuned),aria_equal_weighted,target_macro,ALL,0.3548941204875611,0.3512447213042525,0.6194095742621164

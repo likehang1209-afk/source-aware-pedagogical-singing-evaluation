@@ -1,0 +1,4 @@
+role,fold_permutations,movable_fraction_min,movable_fraction_max,singleton_rows_total,expected_fixed_fraction_mean
+dev,120,1.0,1.0,0,0.06705887914839866
+test,120,1.0,1.0,0,0.07345841718138639
+train,120,1.0,1.0,0,0.06585738746315849

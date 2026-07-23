@@ -1,0 +1,40 @@
+{
+  "dataset": "SVQTD",
+  "targets": {
+    "chest_resonance": 4,
+    "head_resonance": 4,
+    "front_placement": 3,
+    "back_placement": 3,
+    "open_throat": 4,
+    "breathiness_dataset_br": 2,
+    "vibrato": 3
+  },
+  "outer_protocol": {
+    "group": "aria",
+    "folds": 6,
+    "test_policy": "leave one aria out"
+  },
+  "inner_protocol": {
+    "group": "recording source",
+    "repeats": 5,
+    "development_fraction_approx": 0.2,
+    "selection_seed": 17
+  },
+  "foundation_layers": [3, 6, 9, 12],
+  "ensemble_seeds": [17, 29, 43],
+  "class_bias_tau": [0.0, 0.25, 0.5, 0.75, 1.0],
+  "selection_utility": {
+    "uar_weight": 0.5,
+    "macro_f1_weight": 0.5
+  },
+  "selection_utility_sensitivity_uar_weights": [0.0, 0.25, 0.5, 0.75, 1.0],
+  "bootstrap_seed": 20260722,
+  "acoustic_permutation_seed": 20260722,
+  "acoustic_permutations": 20,
+  "primary_reporting": [
+    "UAR",
+    "macro-F1",
+    "accuracy"
+  ]
+}
+
